@@ -1,0 +1,1 @@
+﻿These extensions were taken from https://github.com/kfrancis/geckonet and consist of code that is part of the same project, but has not yet been released as part of the NuGet package.
